@@ -40,8 +40,8 @@ export const projects = [
     image:
       "https://as2.ftcdn.net/v2/jpg/09/02/70/39/1000_F_902703908_TILwtsoe5SG6SkNCdQJQRRXXApNyEsu0.jpg",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
-    demo: "https://example.com",
-    github: "https://github.com/",
+    demo: "https://adarsh-dubey-portfolio.vercel.app/projects/portfolio",
+    github: "https://github.com/adarsh-kumar-dubey-2323/Portfolio",
     overview: "A personal portfolio designed to showcase projects and experience.",
     features: ["Responsive design", "Animated sections", "Project filtering"],
   },
